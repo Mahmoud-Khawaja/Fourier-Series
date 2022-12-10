@@ -1,8 +1,8 @@
 # Fourier-Series
 An interactive Fourier Series with python visualizing the square wave
-singal switching between +1 and -1 
+sigmal switching between +1 and -1 
 <p>
-<img src="https://user-images.githubusercontent.com/66871920/206819284-0f77904c-8175-4c8b-a014-f3e7bfb2ae5f.png" alt="Fourier Series" width = "80%" height ="40%">
+<img src="https://user-images.githubusercontent.com/66871920/206819284-0f77904c-8175-4c8b-a014-f3e7bfb2ae5f.png" alt="Fourier Series" width = "85%" height ="45%">
 </p>
 
 represented by this function
